@@ -16,7 +16,7 @@ namespace CustomerOrderService
             }
             else if (customer.CustomerType == CustomerType.SpecialCustomer)
             {
-                order.Amount = order.Amount - ((order.Amount * 20) / 100);
+                order.Amount = order.Amount - ((order.Amount * 30) / 100);
             }
         }
     }

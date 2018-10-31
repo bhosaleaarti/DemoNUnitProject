@@ -18,7 +18,7 @@ namespace CustomerOrderService.Tests
             Customer premiumCustomer = new Customer
             {
                 CustomerId = 1,
-                CustomerName = "George",
+                CustomerName = "Mahesh",
                 CustomerType = CustomerType.Premium
             };
 
@@ -30,13 +30,13 @@ namespace CustomerOrderService.Tests
                 Amount = 150
             };
 
-            CustomerOrderService customerOrderService = new CustomerOrderService();
+            CustomerOrderService customerOrderServiceVar = new CustomerOrderService();
 
             //Act
-            customerOrderService.ApplyDiscount(premiumCustomer, order);
+            customerOrderServiceVar.ApplyDiscount(premiumCustomer, order);
 
             //Assert
-            Assert.AreEqual(order.Amount, 135);
+            Assert.AreEqual(order.Amount, 130);
         }
     }
 }
