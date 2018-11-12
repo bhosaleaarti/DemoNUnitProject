@@ -11,7 +11,7 @@ namespace CustomerOrderService.Tests
     [TestFixture]
     public class CustomerOrderServiceTests
     {
-        [TestCase]
+        [Test]
         [Category("Discount10")]
         public void When_PremiumCustomer_Expect_10PercentDiscount()
         {
@@ -49,7 +49,7 @@ namespace CustomerOrderService.Tests
             }
         }
 
-        [TestCase]
+        [Test]
         [Category("Discount20")]
         public void When_PremiumCustomer_Expect_20PercentDiscount()
         {
@@ -79,10 +79,6 @@ namespace CustomerOrderService.Tests
             //Assert.Fail("The test is failed.");
 
             if (order.Amount < 280)
-            {
-                Assert.Fail("The test is passed.");
-            }
-            else
             {
                 Assert.Pass("The test is failed");
             }
