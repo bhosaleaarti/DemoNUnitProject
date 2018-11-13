@@ -78,7 +78,7 @@ namespace CustomerOrderService.Tests
             //Assert.AreEqual(order.Amount, 400);
             //Assert.Fail("The test is failed.");
 
-            if (order.Amount > 230)
+            if (order.Amount > 500)
             {
                 Assert.Fail("The test is failed");
             }
