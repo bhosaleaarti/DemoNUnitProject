@@ -1,0 +1,4 @@
+E:\Projects\Study\Demo\NUnitSolution\CustomerOrderService\bin\Debug\CustomerOrderService.dll
+E:\Projects\Study\Demo\NUnitSolution\CustomerOrderService\bin\Debug\CustomerOrderService.pdb
+E:\Projects\Study\Demo\NUnitSolution\CustomerOrderService\obj\Debug\CustomerOrderService.dll
+E:\Projects\Study\Demo\NUnitSolution\CustomerOrderService\obj\Debug\CustomerOrderService.pdb

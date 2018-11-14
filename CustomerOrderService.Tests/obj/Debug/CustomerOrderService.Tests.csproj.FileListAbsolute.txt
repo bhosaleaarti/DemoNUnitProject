@@ -1,0 +1,14 @@
+E:\Projects\Study\Demo\NUnitSolution\CustomerOrderService.Tests\bin\Debug\NUnit3.TestAdapter.dll
+E:\Projects\Study\Demo\NUnitSolution\CustomerOrderService.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+E:\Projects\Study\Demo\NUnitSolution\CustomerOrderService.Tests\bin\Debug\nunit.engine.dll
+E:\Projects\Study\Demo\NUnitSolution\CustomerOrderService.Tests\bin\Debug\nunit.engine.api.dll
+E:\Projects\Study\Demo\NUnitSolution\CustomerOrderService.Tests\bin\Debug\CustomerOrderService.Tests.dll
+E:\Projects\Study\Demo\NUnitSolution\CustomerOrderService.Tests\bin\Debug\CustomerOrderService.Tests.pdb
+E:\Projects\Study\Demo\NUnitSolution\CustomerOrderService.Tests\bin\Debug\nunit.framework.dll
+E:\Projects\Study\Demo\NUnitSolution\CustomerOrderService.Tests\bin\Debug\nunit.framework.pdb
+E:\Projects\Study\Demo\NUnitSolution\CustomerOrderService.Tests\bin\Debug\nunit.framework.xml
+E:\Projects\Study\Demo\NUnitSolution\CustomerOrderService.Tests\obj\Debug\CustomerOrderService.Tests.csprojResolveAssemblyReference.cache
+E:\Projects\Study\Demo\NUnitSolution\CustomerOrderService.Tests\obj\Debug\CustomerOrderService.Tests.dll
+E:\Projects\Study\Demo\NUnitSolution\CustomerOrderService.Tests\obj\Debug\CustomerOrderService.Tests.pdb
+E:\Projects\Study\Demo\NUnitSolution\CustomerOrderService.Tests\bin\Debug\CustomerOrderService.dll
+E:\Projects\Study\Demo\NUnitSolution\CustomerOrderService.Tests\bin\Debug\CustomerOrderService.pdb
